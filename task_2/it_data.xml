@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technologies>
+    <technology type="AI">
+        <name>Artificial Intelligence</name>
+        <description>Simulates human intelligence</description>
+        <use>Automation, analytics</use>
+    </technology>
+    <technology type="Cloud">
+        <name>Cloud Computing</name>
+        <description>Internet-based computing</description>
+        <use>Data storage, scalability</use>
+    </technology>
+    <technology type="Blockchain">
+        <name>Blockchain</name>
+        <description>Decentralized ledger technology</description>
+        <use>Cryptocurrency, security</use>
+    </technology>
+    <technology type="IoT">
+        <name>Internet of Things</name>
+        <description>Connected devices</description>
+        <use>Smart homes, monitoring</use>
+    </technology>
+</technologies>

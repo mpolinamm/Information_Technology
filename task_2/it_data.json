@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Artificial Intelligence",
+        "description": "Simulates human intelligence",
+        "usage": "Automation, analytics"
+    },
+    {
+        "name": "Cloud Computing",
+        "description": "Internet-based computing",
+        "usage": "Data storage, scalability"
+    },
+    {
+        "name": "Blockchain",
+        "description": "Decentralized ledger technology",
+        "usage": "Cryptocurrency, security"
+    },
+    {
+        "name": "Internet of Things",
+        "description": "Connected devices",
+        "usage": "Smart homes, monitoring"
+    }
+]
