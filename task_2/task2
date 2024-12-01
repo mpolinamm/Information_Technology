@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Information Technology</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Information Technology</h1>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Technology</th>
+                    <th>Description</th>
+                    <th>Usage</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Artificial Intelligence</td>
+                    <td>Simulates human intelligence</td>
+                    <td>Automation, analytics</td>
+                </tr>
+                <tr>
+                    <td>Cloud Computing</td>
+                    <td>Internet-based computing</td>
+                    <td>Data storage, scalability</td>
+                </tr>
+                <tr>
+                    <td>Blockchain</td>
+                    <td>Decentralized ledger technology</td>
+                    <td>Cryptocurrency, security</td>
+                </tr>
+                <tr>
+                    <td>Internet of Things</td>
+                    <td>Connected devices</td>
+                    <td>Smart homes, monitoring</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <div class="links">
+            <a href="it_data.xml" target="_blank">Xml document</a>
+            <a href="it_data.json" target="_blank">Link to IT JSON Document</a>
+        </div>
+    </div>
+</body>
+</html>
