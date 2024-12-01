@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Information Technology</title>
+    <link rel="stylesheet" href="task4.css">
+</head>
+<body>
+    <h1>Form page</h1>
+    <form>
+        <div>
+            <label for="firstname">First name:</label>
+            <input type="text" id="firstname" name="firstname" required>
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        <div>
+            <label for="timespent">How much time do you spend online everyday?</label>
+            <select id="timespent" name="timespent">
+                <option value="">Select</option>
+                <option value="30min">30 minutes or less</option>
+                <option value="30minhour">30 minutes - 1 hour</option>
+                <option value="onetwohours">1 - 2 hours</option>
+                <option value="twomore">2 hours or more</option>
+            </select>
+        </div>
+        <div class="button-group">
+            <button type="submit" class="btn save">Save</button>
+            <button type="button" class="btn cancel">Cancel</button>
+        </div>
+    </form>
+</body>
+</html>
